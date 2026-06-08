@@ -1,0 +1,25 @@
+{
+  "page": "homepage",
+  "url": "https://www.saucedemo.com",
+  "violations": [
+    {
+      "impact": "moderate",
+      "description": "Ensure the document has a main landmark",
+      "count": 1
+    },
+    {
+      "impact": "moderate",
+      "description": "Ensure that the page, or at least one of its frames contains a level-one heading",
+      "count": 1
+    },
+    {
+      "impact": "moderate",
+      "description": "Ensure all page content is contained by landmarks",
+      "count": 4
+    }
+  ],
+  "totalViolations": 3,
+  "critical": 0,
+  "serious": 0,
+  "moderate": 3
+}

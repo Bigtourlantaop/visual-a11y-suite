@@ -1,0 +1,30 @@
+{
+  "page": "product-page",
+  "url": "https://www.saucedemo.com",
+  "violations": [
+    {
+      "impact": "moderate",
+      "description": "Ensure the document has a main landmark",
+      "count": 1
+    },
+    {
+      "impact": "moderate",
+      "description": "Ensure that the page, or at least one of its frames contains a level-one heading",
+      "count": 1
+    },
+    {
+      "impact": "moderate",
+      "description": "Ensure all page content is contained by landmarks",
+      "count": 21
+    },
+    {
+      "impact": "critical",
+      "description": "Ensure select element has an accessible name",
+      "count": 1
+    }
+  ],
+  "totalViolations": 4,
+  "critical": 1,
+  "serious": 0,
+  "moderate": 3
+}
